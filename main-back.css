@@ -1,0 +1,37 @@
+body {
+    background-image: url('res/image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+h1 {
+  text-align : center;
+  color : blue;
+}
+p {
+  text-align : center;
+  color : red;
+}
+div {
+  background-color : yellow;
+  color : red;
+}
+/* 여기는 주석 영역 */
+#para1 {
+  text-align : center ;
+  color : red ;
+}
+#id2 {
+  text-align : right ;
+  color : orange ;
+}
+.center {
+  text-align:center;
+  color:red;
+}
+p.center {
+  text-align:center;
+  color:blueviolet;
+}
+.large {
+  font-size:150%;
+}

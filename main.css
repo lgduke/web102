@@ -1,0 +1,239 @@
+body {
+    background-image: url('res/image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+
+p{
+  background-color: bisque;
+  text-align : center;
+  color : red;
+}
+
+#main{
+  height: 464px ;
+}
+
+#div1 {
+  background-color: peachpuff;
+  margin: 30px 0px 30px 0px
+}
+
+h6{
+  font-size: 10;
+  text-align: center;
+  padding : 30px 0px 0px 0px
+}
+h5{
+  font-size: 20;
+  text-align: center ;
+  padding : 0px 0px 0px 0px
+}
+h4{
+  font-size: 20;
+  text-align: center;
+  padding : 0px 0px 30px 0px;
+}
+
+#div2 {
+  background-color: pink;
+  width: 1240px;
+  margin: 10px 0px 10px 0px;
+}
+
+#div2-img {
+  text-align: center;
+}
+
+#p1 {
+  width:250px; 
+  height:150px; 
+  border:1px solid red; 
+  float:left;
+  text-align: center;
+  display: inline;
+}
+
+#div3 {
+  background-color: whitesmoke;
+  width: 771x;
+  margin: 10px 0px 10px 0px;
+}
+
+#id1 {
+  height: 120px ;
+  background-color: yellow;
+  text-align : right ;
+  color : orange ;
+}
+
+
+
+#li1 {
+  position: absolute;
+  top: 53px;
+  left: 80px;
+  padding: 5px 7px 3px 0px;    (위, 오른쪽, 아래, 왼쪽 순임)
+  float: left;
+}
+#li2 {
+  position: absolute;
+  top: 53px;
+  left: 230px;
+  padding: 5px 7px 3px 0px;    (위, 오른쪽, 아래, 왼쪽 순임)
+  float: left;
+}
+#li3 {
+  position: absolute;
+  top: 53px;
+  left: 330px;
+  padding: 5px 7px 3px 0px;    (위, 오른쪽, 아래, 왼쪽 순임)
+  float: left;
+}
+#li4 {
+  position: absolute;
+  top: 53px;
+  left: 700px;
+  padding: 5px 7px 3px 0px;    (위, 오른쪽, 아래, 왼쪽 순임)
+  float: left;
+}
+#li5 {
+  position: absolute;
+  top: 53px;
+  left: 800px;
+  padding: 5px 7px 3px 0px;    (위, 오른쪽, 아래, 왼쪽 순임)
+  float: left;
+}
+#li6 {
+  position: absolute;
+  top: 53px;
+  left: 900px;
+  padding: 5px 7px 3px 0px;    (위, 오른쪽, 아래, 왼쪽 순임)
+  float: left;
+}
+#li-img {
+  position: absolute;
+  top: 53px;
+  left: 400px;
+  padding: 5px 7px 3px 0px;    (위, 오른쪽, 아래, 왼쪽 순임)
+  float: left;
+}
+
+#div-a {
+  background-color: black;
+  width: 1000px;
+  height: 500px;
+  font: "맑은 고딕";
+  margin: 10px 0px 10px 0px;
+}
+
+#img-a {
+  width: 750px;
+  height: 500px;
+  float:left;
+}
+#img-b {
+  width: 250px;
+  height: 250px;
+  float:left;
+}
+#img-c {
+  width: 250px;
+  height: 250px;
+  float: right;
+}
+.user-text {
+	position: absolute;
+  color: white;
+	top: 50%;
+	left: 10%;
+  width: 210px;
+  height: 210px;
+  float: left;
+  border:1px solid red; 
+	transform: translate( -50%, -50% );
+    font-size: 20px;
+    font-family: 'ypseo';
+    text-align:center;
+}
+
+
+#div-b {
+  width: 1000px;
+  height: 500px;
+  text-align: center;
+  border:none;
+  overflow: hidden;
+}
+.p-a {
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  background-color: yellow;
+  margin-top:0px;
+  margin-left: 0px;
+
+}
+.p-aa {
+  background-color: blue;
+}
+.p-aaa{
+  float: left;
+}
+.p-bbb{
+  position: absolute;
+  top: 765px;
+  left: 7px;
+}
+.p-ccc{
+  position: absolute;
+  top: 765px;
+  left: 257px;
+}
+.p-ddd{
+  position: absolute;
+  top: 765px;
+  left: 507px;
+}
+
+
+
+.p-b {
+  width: 250px;
+  height: 500px;
+  text-align: center;
+  margin-top: 0px;
+  margin-left:0px;
+  background-color: aqua;
+}
+
+
+#div-c {
+  width: 1000px;
+  height: 40px;
+  text-align: center;
+  color: yellow;
+  overflow:hidden;
+}
+
+
+#p-c {
+  width: 750px;
+  height: 40px;
+  text-align: center;
+  float:left;
+  color:black;
+  background-color: peru;
+}
+#p-d {
+  width: 250px;
+  height: 40px;
+  text-align: center;
+  float:left;
+  color:black;
+  background-color: pink;
+}
+
+#char{
+  color:orange;
+}
